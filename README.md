@@ -1,7 +1,7 @@
 <h1> Projeto CRUD Spring Boot </h1>
 
 <h2> Objetivo </h2>
-<p> Estudar a criação de uma aplicação web e métodos HTTP utilizando Java e Spring. </p>
+<p> Estudar a criação de uma aplicação web e métodos de requisição HTTP utilizando Java e Spring. </p>
 
 <h2> Sobre </h2>
 <p> Criação de uma aplicação web simples no padrão MVC para gerenciamento de produtos em estoque, conta com uma estrutura de CRUD básico e os dados são persistidos no banco de dados (MySQL). Na camada view foi utilizado HTML, CSS e o template Thymeleaf. </p>
